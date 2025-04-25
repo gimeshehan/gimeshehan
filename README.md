@@ -9,7 +9,7 @@
 <tr border="none">
 <td width="50%" align="left">
   
-- 🌱 I’m currently learning **JAVA / C / Python**
+- 🌱 I’m currently learning **JAVA / C / Python / C#**
 - 🧑‍🎓 I’m an Undergraduate at **Bsc.Hons.Computer Sciences(Special) in Sabaragamuwa University of Sri Lanka**
 - 📫 How to reach me **gimeshshehan@gmail.com**
 
