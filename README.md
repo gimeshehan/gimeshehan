@@ -44,7 +44,7 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://linkedin.com/in/gimesh shehan" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="gimesh shehan" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/gimesh-shehan/" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="gimesh shehan" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/19541491" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/StackOverflow-Light.svg" alt="19541491" height="30" width="40" /></a>
 <a href="https://fb.com/gimesh shehan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="gimesh shehan" height="30" width="40" /></a>
 <a href="https://instagram.com/gimesh shehan" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Instagram.svg" alt="gimesh shehan" height="30" width="40" /></a>
